@@ -3,9 +3,8 @@
 An organized project structure and starter template for React and Tailwind equipped with necessary additions such as
 localization setup and customizable common components to help you get started faster with React.
 
-React version: 17.0.2
-<br>
-Tailwind version: 3.0.5
+- React version: 17.0.2
+- Tailwind version: 3.0.5
 
 # Template Content
 
